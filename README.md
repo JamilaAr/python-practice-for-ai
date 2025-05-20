@@ -1,6 +1,5 @@
 # python-practice-for-ai
 
-# Python Practice for AI Beginners
 
 This repository contains beginner-level Python programming exercises designed to build core skills in logic, functions, randomness, decorators, context managers, and more essential for Python and AI  learners.
 
